@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shinatxo. 
-- 👀 I’m interested in AI and machine learning.
+- 👀 I’m interested in AI, machine learning and cloud computing.
 - 🌱 I’m currently learning Java, HTML, CSS, Javascript, SQL and Python.
 - 💞️ I’m looking to collaborate on anything!
 - 📫 How to reach me - email :)
