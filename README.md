@@ -1,6 +1,6 @@
 ### Hi, I'm Shina 👋
 
-Medical doctor (MBBS, St George's 2019) transitioning into cloud engineering. Currently studying for **AWS Solutions Architect Associate (SAA-C03)** alongside an **MSc in Computer Science with Data Science**, while building a portfolio of healthcare-flavoured cloud projects.
+Medical doctor (MBBS, St George's 2019) transitioning into cloud engineering. Currently studying for **AWS Solutions Architect Associate (SAA-C03)**, while building a portfolio of healthcare-flavoured cloud projects.
 
 🌐 **Portfolio:** [shinaoguntoye.dev](https://shinaoguntoye.dev)
 
